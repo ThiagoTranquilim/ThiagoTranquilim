@@ -11,4 +11,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTranquilim&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Main Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTranquilim&repo=Sistemas-de-Informacao&theme=github_dark)](https://github.com/ThiagoTranquilim/Sistemas-de-Informacao)
